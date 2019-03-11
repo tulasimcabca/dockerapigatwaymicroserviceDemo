@@ -1,0 +1,14 @@
+C:\Tulasi\APIGatewayTest\Catalog\bin\Debug\netcoreapp2.1\Catalog.deps.json
+C:\Tulasi\APIGatewayTest\Catalog\bin\Debug\netcoreapp2.1\Catalog.runtimeconfig.json
+C:\Tulasi\APIGatewayTest\Catalog\bin\Debug\netcoreapp2.1\Catalog.runtimeconfig.dev.json
+C:\Tulasi\APIGatewayTest\Catalog\bin\Debug\netcoreapp2.1\Catalog.dll
+C:\Tulasi\APIGatewayTest\Catalog\bin\Debug\netcoreapp2.1\Catalog.pdb
+C:\Tulasi\APIGatewayTest\Catalog\obj\Debug\netcoreapp2.1\Catalog.csproj.CoreCompileInputs.cache
+C:\Tulasi\APIGatewayTest\Catalog\obj\Debug\netcoreapp2.1\Catalog.RazorAssemblyInfo.cache
+C:\Tulasi\APIGatewayTest\Catalog\obj\Debug\netcoreapp2.1\Catalog.RazorAssemblyInfo.cs
+C:\Tulasi\APIGatewayTest\Catalog\obj\Debug\netcoreapp2.1\Catalog.AssemblyInfoInputs.cache
+C:\Tulasi\APIGatewayTest\Catalog\obj\Debug\netcoreapp2.1\Catalog.AssemblyInfo.cs
+C:\Tulasi\APIGatewayTest\Catalog\obj\Debug\netcoreapp2.1\Catalog.RazorTargetAssemblyInfo.cache
+C:\Tulasi\APIGatewayTest\Catalog\obj\Debug\netcoreapp2.1\Catalog.dll
+C:\Tulasi\APIGatewayTest\Catalog\obj\Debug\netcoreapp2.1\Catalog.pdb
+C:\Tulasi\APIGatewayTest\Catalog\obj\Debug\netcoreapp2.1\Catalog.csprojResolveAssemblyReference.cache

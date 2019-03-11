@@ -1,0 +1,11 @@
+services:
+  apigateway:
+    build:
+      context: C:\Tulasi\APIGatewayTest
+      dockerfile: ApiGateway/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: apigateway
+    ports:
+    - 80/tcp
+version: '3.0'

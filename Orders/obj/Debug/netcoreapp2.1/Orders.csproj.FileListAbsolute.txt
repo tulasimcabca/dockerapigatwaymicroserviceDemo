@@ -1,0 +1,13 @@
+C:\Tulasi\APIGatewayTest\Orders\bin\Debug\netcoreapp2.1\Orders.dll
+C:\Tulasi\APIGatewayTest\Orders\bin\Debug\netcoreapp2.1\Orders.deps.json
+C:\Tulasi\APIGatewayTest\Orders\bin\Debug\netcoreapp2.1\Orders.runtimeconfig.json
+C:\Tulasi\APIGatewayTest\Orders\bin\Debug\netcoreapp2.1\Orders.runtimeconfig.dev.json
+C:\Tulasi\APIGatewayTest\Orders\obj\Debug\netcoreapp2.1\Orders.csproj.CoreCompileInputs.cache
+C:\Tulasi\APIGatewayTest\Orders\obj\Debug\netcoreapp2.1\Orders.RazorAssemblyInfo.cache
+C:\Tulasi\APIGatewayTest\Orders\obj\Debug\netcoreapp2.1\Orders.RazorAssemblyInfo.cs
+C:\Tulasi\APIGatewayTest\Orders\obj\Debug\netcoreapp2.1\Orders.AssemblyInfoInputs.cache
+C:\Tulasi\APIGatewayTest\Orders\obj\Debug\netcoreapp2.1\Orders.AssemblyInfo.cs
+C:\Tulasi\APIGatewayTest\Orders\obj\Debug\netcoreapp2.1\Orders.RazorTargetAssemblyInfo.cache
+C:\Tulasi\APIGatewayTest\Orders\obj\Debug\netcoreapp2.1\Orders.dll
+C:\Tulasi\APIGatewayTest\Orders\obj\Debug\netcoreapp2.1\Orders.pdb
+C:\Tulasi\APIGatewayTest\Orders\bin\Debug\netcoreapp2.1\Orders.pdb

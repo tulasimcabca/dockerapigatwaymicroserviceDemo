@@ -1,0 +1,14 @@
+C:\Tulasi\APIGatewayTest\ApiGateway\bin\Debug\netcoreapp2.1\ApiGateway.deps.json
+C:\Tulasi\APIGatewayTest\ApiGateway\bin\Debug\netcoreapp2.1\ApiGateway.runtimeconfig.json
+C:\Tulasi\APIGatewayTest\ApiGateway\bin\Debug\netcoreapp2.1\ApiGateway.runtimeconfig.dev.json
+C:\Tulasi\APIGatewayTest\ApiGateway\bin\Debug\netcoreapp2.1\ApiGateway.dll
+C:\Tulasi\APIGatewayTest\ApiGateway\obj\Debug\netcoreapp2.1\ApiGateway.csproj.CoreCompileInputs.cache
+C:\Tulasi\APIGatewayTest\ApiGateway\obj\Debug\netcoreapp2.1\ApiGateway.RazorAssemblyInfo.cache
+C:\Tulasi\APIGatewayTest\ApiGateway\obj\Debug\netcoreapp2.1\ApiGateway.RazorAssemblyInfo.cs
+C:\Tulasi\APIGatewayTest\ApiGateway\obj\Debug\netcoreapp2.1\ApiGateway.AssemblyInfoInputs.cache
+C:\Tulasi\APIGatewayTest\ApiGateway\obj\Debug\netcoreapp2.1\ApiGateway.AssemblyInfo.cs
+C:\Tulasi\APIGatewayTest\ApiGateway\obj\Debug\netcoreapp2.1\ApiGateway.RazorTargetAssemblyInfo.cache
+C:\Tulasi\APIGatewayTest\ApiGateway\bin\Debug\netcoreapp2.1\ApiGateway.pdb
+C:\Tulasi\APIGatewayTest\ApiGateway\obj\Debug\netcoreapp2.1\ApiGateway.dll
+C:\Tulasi\APIGatewayTest\ApiGateway\obj\Debug\netcoreapp2.1\ApiGateway.pdb
+C:\Tulasi\APIGatewayTest\ApiGateway\obj\Debug\netcoreapp2.1\ApiGateway.csprojResolveAssemblyReference.cache
